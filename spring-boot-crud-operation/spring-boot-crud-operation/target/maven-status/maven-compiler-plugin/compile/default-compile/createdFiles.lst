@@ -1,0 +1,5 @@
+com\demo\SpringBootCrudOperationApplication.class
+com\demo\service\BooksService.class
+com\demo\controller\BooksController.class
+com\demo\model\Books.class
+com\demo\repository\BooksRepository.class
